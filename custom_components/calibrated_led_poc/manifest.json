@@ -1,0 +1,11 @@
+{
+  "domain": "calibrated_led_poc",
+  "name": "Calibrated LED PoC",
+  "version": "0.0.1-poc",
+  "documentation": "https://github.com/orgs/home-assistant/discussions/3538",
+  "issue_tracker": "https://github.com/orgs/home-assistant/discussions/3538",
+  "dependencies": ["light"],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_push"
+}
