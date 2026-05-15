@@ -151,7 +151,6 @@ PYTHONPATH=calibrated_led_poc python -m pytest tests/ -v
 - No UI for calibration — anchors must be entered manually in YAML
 - No config flow — YAML only
 - `min_color_temp_kelvin` / `max_color_temp_kelvin` are hardcoded, not derived from profile anchors
-- Not tested against Adaptive Lighting, though it should work transparently since AL uses standard `light.turn_on` service calls
 
 ---
 
